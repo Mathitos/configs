@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "workbench.editor.enablePreview": false,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true
+}
