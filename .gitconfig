@@ -1,0 +1,7 @@
+[user]
+	email = matheus.c.anzzulin@gmail.com
+[alias]
+	co = checkout
+	ct = commit
+	lg = log --graph --oneline --all
+	rb = pull -r origin master
