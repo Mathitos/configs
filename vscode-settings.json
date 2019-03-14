@@ -5,7 +5,7 @@
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "editor.tabSize": 2,
-    
+    "editor.renderWhitespace": "all",
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
     "javascript.updateImportsOnFileMove.enabled": "never",
