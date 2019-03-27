@@ -1,17 +1,26 @@
 {
   "workbench.editor.enablePreview": false,
-  "files.trimTrailingWhitespace": true,
-  "files.insertFinalNewline": true,
-  "files.trimFinalNewlines": true,
-  "explorer.confirmDelete": false,
-  "explorer.confirmDragAndDrop": false,
-  "javascript.updateImportsOnFileMove.enabled": "never",
-  "eslint.autoFixOnSave": true,
-  "eslint.packageManager": "yarn",
+  "workbench.sideBar.location": "right",
+
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
   "editor.renderWhitespace": "all",
   "editor.renderControlCharacters": true,
-  "workbench.sideBar.location": "right",
-  "editor.minimap.side": "right"
+  "editor.minimap.side": "right",
+
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+
+  "eslint.autoFixOnSave": true,
+  "eslint.packageManager": "yarn",
+
+  "javascript.updateImportsOnFileMove.enabled": "never",
+
+  "[markdown]": {
+    "editor.formatOnSave": false
+  }
 }
