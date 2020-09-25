@@ -1,10 +1,13 @@
 [user]
-	name = Matheus Anzzulin
-	email = matheus.c.anzzulin@gmail.com
+        name = Matheus Anzzulin
+        email = matheus.c.anzzulin@gmail.com
 [alias]
-	co = checkout
-	ct = commit
-	lg = log --graph --oneline --all
-	rb = pull -r origin master
+        co = checkout
+        ct = commit
+        lg = log --graph --oneline --all
+        rb = pull -r origin master
+        pushfwl = push --force-with-lease
 [credential]
-	helper = cache --timeout 36000
+        helper = cache --timeout 36000                                                                                                                           
+[push]
+        default = current
