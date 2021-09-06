@@ -1,26 +1,24 @@
 {
   "workbench.editor.enablePreview": false,
   "workbench.sideBar.location": "right",
-
+  "workbench.colorTheme": "Default Dark+",
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
   "editor.renderWhitespace": "all",
   "editor.renderControlCharacters": true,
   "editor.minimap.side": "right",
-
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
-
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
-
   "eslint.autoFixOnSave": true,
   "eslint.packageManager": "yarn",
-
   "javascript.updateImportsOnFileMove.enabled": "never",
-
   "[markdown]": {
     "editor.formatOnSave": false
-  }
+  },
+  "[elixir]": {
+    "editor.defaultFormatter": "JakeBecker.elixir-ls"
+  },
 }
